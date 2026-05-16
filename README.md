@@ -114,7 +114,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions, feedback or just want to say hi, feel free to reach out to me at bipin@cuberk.com. You can also visit my website at [www.win3zz.com](https://win3zz.com/) to learn more about me and my work. Cheers! 🥂😊
+If you have any questions, feedback or just want to say hi, feel free to reach out to me at bipin[at]cuberk[dot]com. You can also visit my website at [www.win3zz.com](https://win3zz.com/) to learn more about me and my work. Cheers! 🥂😊
 
 [🤖](https://www.youtube.com/watch?v=s-kdRdzxdZQ)
 
